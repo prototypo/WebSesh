@@ -1,6 +1,10 @@
-# websesh TinyMCE Plugin
+# WebSesh TinyMCE Plugin
 
-Welcome stranger! This is a repo containing the websesh TinyMCE plugin.
+WebSesh is a TinyMCE editor plugin to facilitate writing ancient Egyptian hieroglyphs in HTML.
+
+WebSesh is intended to provide complete support for both “verbalist” writing using categorised signs, a full picklist in Manuel de Codage (MdC) style, and direct entry of Gardiner numbers. The project is currently a long way from having a complete feature set.
+
+Please contribute! The project needs translators, software developers, Egyptologists, and technical writers.
 
 ## The development server
 
